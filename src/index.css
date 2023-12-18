@@ -1,0 +1,7 @@
+body{
+  background-image: url('images/bus.png');
+  background-size: 200px 100px ;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+}
+
